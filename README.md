@@ -1,1 +1,1 @@
-not fully finshed
+not fully finished
