@@ -5,7 +5,7 @@ import androidx.room.Delete
 import androidx.room.Insert
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
-import com.example.expensetrackerapp.domain.entity.ExpenseEntity
+import com.example.expensetrackerapp.data.entity.ExpenseEntity
 import kotlinx.coroutines.flow.Flow
 
 @Dao

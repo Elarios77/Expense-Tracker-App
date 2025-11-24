@@ -1,6 +1,6 @@
 package com.example.expensetrackerapp.data.datasource
 
-import com.example.expensetrackerapp.domain.entity.ExpenseEntity
+import com.example.expensetrackerapp.data.entity.ExpenseEntity
 import kotlinx.coroutines.flow.Flow
 
 interface ExpenseDataSource {

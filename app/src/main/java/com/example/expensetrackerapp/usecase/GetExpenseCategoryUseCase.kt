@@ -1,7 +1,7 @@
 package com.example.expensetrackerapp.usecase
 
 import com.example.expensetrackerapp.domain.repository.ExpensesRepository
-import com.example.expensetrackerapp.data.model.ExpenseItem
+import com.example.expensetrackerapp.domain.model.ExpenseItem
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.emptyFlow
 import javax.inject.Inject

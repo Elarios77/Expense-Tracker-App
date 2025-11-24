@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ExpenseTrackerApp</string>
+    <string name="app_bar_text">Expense tracker app</string>
+    <string name="food">Food</string>
+    <string name="transportation">Transportation</string>
+    <string name="home">Home</string>
+    <string name="shopping">Shopping</string>
+    <string name="health">Health</string>
+    <string name="entertainment">Entertainment</string>
+    <string name="total">Total</string>
+    <string name="expensesScreens">Expenses Screens</string>
+    <string name="tabtitle1">Main</string>
+    <string name="tabtitle2">History</string>
+    <string name="add_new_expense">Add new expense</string>
+    <string name="amount">Amount €</string>
+    <string name="description">Description</string>
+    <string name="save">SAVE</string>
+    <string name="app_bar_text_2">Total Expenses</string>
+    <string name="statistics">Statistics</string>
+    <string name="tabtitle3">Graph</string>
+    <string name="message">No expenses yet</string>
+    <string name="mesg_totalScreen">No data!</string>
+
+</resources>

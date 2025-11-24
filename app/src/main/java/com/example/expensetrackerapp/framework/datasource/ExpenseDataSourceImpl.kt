@@ -2,7 +2,7 @@ package com.example.expensetrackerapp.framework.datasource
 
 import com.example.expensetrackerapp.data.datasource.ExpenseDataSource
 import com.example.expensetrackerapp.framework.database.dao.ExpenseDao
-import com.example.expensetrackerapp.domain.entity.ExpenseEntity
+import com.example.expensetrackerapp.data.entity.ExpenseEntity
 import kotlinx.coroutines.flow.Flow
 import javax.inject.Inject
 

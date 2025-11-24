@@ -1,7 +1,7 @@
 package com.example.expensetrackerapp.data.mapper
 
-import com.example.expensetrackerapp.domain.entity.ExpenseEntity
-import com.example.expensetrackerapp.data.model.ExpenseItem
+import com.example.expensetrackerapp.data.entity.ExpenseEntity
+import com.example.expensetrackerapp.domain.model.ExpenseItem
 import javax.inject.Inject
 
 class ExpenseMapper @Inject constructor() {

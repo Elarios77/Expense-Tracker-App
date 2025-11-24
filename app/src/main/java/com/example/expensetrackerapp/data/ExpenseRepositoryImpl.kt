@@ -3,7 +3,7 @@ package com.example.expensetrackerapp.data
 import com.example.expensetrackerapp.data.mapper.ExpenseMapper
 import com.example.expensetrackerapp.domain.repository.ExpensesRepository
 import com.example.expensetrackerapp.framework.datasource.ExpenseDataSourceImpl
-import com.example.expensetrackerapp.data.model.ExpenseItem
+import com.example.expensetrackerapp.domain.model.ExpenseItem
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
 import javax.inject.Inject

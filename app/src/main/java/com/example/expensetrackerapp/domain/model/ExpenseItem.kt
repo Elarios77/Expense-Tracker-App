@@ -1,4 +1,4 @@
-package com.example.expensetrackerapp.data.model
+package com.example.expensetrackerapp.domain.model
 
 import java.util.UUID
 
