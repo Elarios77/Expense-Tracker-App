@@ -50,7 +50,7 @@ The project demonstrates the **DRY (Don't Repeat Yourself)** principle by:
 
 * **State Management:** Utilization of **Sealed Classes** to manage UI state (Loading / Success / Error).
 * **Dynamic Views:** The application features Tabs (Main/History) and displays the **Add Form** or **History List** system dynamically based on the user's selection.
-* **Total & Analytics:** A Statistics Screen featuring a **Pie Chart** (MPAndroidChart Interoperability) that visualizes the distribution of expenses by category.
+* **Total & Analytics:** A Statistics Screen featuring a **Pie Chart** that visualizes the distribution of expenses by category.
 * **CRUD Operations:** Full functionality for Creating, Reading, and Deleting expenses (Delete/Remove).
 * **Validation:** Basic input validation (e.g., positive amount, non-empty description).
 
