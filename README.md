@@ -13,13 +13,13 @@ Here are visual representations of the application's key screens.
 | Home (Menu) | Expense List (History Tab) | Add Expense (Main Tab) | Statistics (Pie Chart) |
 |:-----------:|:-----------------------------:|:----------------------------:|:------------------------:|
 | 
-<img src="path/to/main.jpg" width="250"/>
+<img src="screenshots/main.jpg" width="250"/>
  | 
-<img src="path/to/history.jpg" width="250"/>
+<img src="screenshots/history.jpg" width="250"/>
  |
-<img src="path/to/add_expense.jpg" width="250"/> 
+<img src="screenshots/add_expense.jpg" width="250"/> 
  |
-<img src="path/to/pie_chart.jpg" width="250"/>
+<img src="screenshots/pie_chart.jpg" width="250"/>
  |
 
 ---
