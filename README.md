@@ -1,4 +1,4 @@
-# 💰 ExpenseWise: Smart Expense Tracker (Clean Architecture)
+# 💰Expense Tracker App (Clean Architecture)
 
 A comprehensive Android application developed with **Jetpack Compose**, designed to demonstrate the implementation of modern architecture (**Clean Architecture** / **MVVM**) and real-time data management.
 
