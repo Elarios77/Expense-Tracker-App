@@ -8,7 +8,7 @@ The application serves as a personal expense tracking tool, offering dynamic dat
 
 ## 📱 Screenshots
 
-Here are visual representations of the application's key screens.
+Here are visual representations of the application's key screens. Check screenshots file.
 
 | Home (Menu) | Expense List (History Tab) | Add Expense (Main Tab) | Statistics (Pie Chart) |
 |:-----------:|:-----------------------------:|:----------------------------:|:------------------------:|
