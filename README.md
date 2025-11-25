@@ -88,4 +88,4 @@ Follow these steps to get the project running on your local machine.
 
 ## 🧑‍💻 Author
 
-Developed by **[Your Name]**
+Developed by **Lazaros** https://github.com/Elarios77
